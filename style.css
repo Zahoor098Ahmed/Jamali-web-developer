@@ -59,6 +59,8 @@ body {
     color: white;
   }
 
+ 
+
   .links a:hover{
     color: black;
   }
@@ -197,15 +199,15 @@ body {
 
   
 
-  img:hover {
-    
-    
+  .pic:hover {
      
-      
       filter: blur(5px);
       background-color: #515252;
- 
-    
-   
   }
-  
+
+  .icons:hover{
+    rotate: 30deg;
+    zoom: 7px;
+    filter: blur(none);
+    transform: scale(1.2);
+  }
