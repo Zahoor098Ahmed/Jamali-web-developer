@@ -3,6 +3,14 @@
   padding: 0px;
 }
 
+/* @media (max-width: 450px){
+  .website-body{
+    flex-direction: column;
+  }
+} */
+
+
+
 #links {
   margin-bottom: 0px;
 }
@@ -170,6 +178,7 @@ body {
     color: goldenrod;
     padding: 50px;
     margin-top: 100px;
+    
   }
   
   .footer-inner-container {
